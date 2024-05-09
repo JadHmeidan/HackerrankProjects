@@ -1,0 +1,14 @@
+C:\Users\jadhm\source\repos\HackerRank_Day6_Strings\HackerRank_Day6_Strings\obj\Debug\net6.0\HackerRank_Day6_Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jadhm\source\repos\HackerRank_Day6_Strings\HackerRank_Day6_Strings\obj\Debug\net6.0\HackerRank_Day6_Strings.AssemblyInfoInputs.cache
+C:\Users\jadhm\source\repos\HackerRank_Day6_Strings\HackerRank_Day6_Strings\obj\Debug\net6.0\HackerRank_Day6_Strings.AssemblyInfo.cs
+C:\Users\jadhm\source\repos\HackerRank_Day6_Strings\HackerRank_Day6_Strings\obj\Debug\net6.0\HackerRank_Day6_Strings.csproj.CoreCompileInputs.cache
+C:\Users\jadhm\source\repos\HackerRank_Day6_Strings\HackerRank_Day6_Strings\bin\Debug\net6.0\HackerRank_Day6_Strings.exe
+C:\Users\jadhm\source\repos\HackerRank_Day6_Strings\HackerRank_Day6_Strings\bin\Debug\net6.0\HackerRank_Day6_Strings.deps.json
+C:\Users\jadhm\source\repos\HackerRank_Day6_Strings\HackerRank_Day6_Strings\bin\Debug\net6.0\HackerRank_Day6_Strings.runtimeconfig.json
+C:\Users\jadhm\source\repos\HackerRank_Day6_Strings\HackerRank_Day6_Strings\bin\Debug\net6.0\HackerRank_Day6_Strings.dll
+C:\Users\jadhm\source\repos\HackerRank_Day6_Strings\HackerRank_Day6_Strings\bin\Debug\net6.0\HackerRank_Day6_Strings.pdb
+C:\Users\jadhm\source\repos\HackerRank_Day6_Strings\HackerRank_Day6_Strings\obj\Debug\net6.0\HackerRank_Day6_Strings.dll
+C:\Users\jadhm\source\repos\HackerRank_Day6_Strings\HackerRank_Day6_Strings\obj\Debug\net6.0\refint\HackerRank_Day6_Strings.dll
+C:\Users\jadhm\source\repos\HackerRank_Day6_Strings\HackerRank_Day6_Strings\obj\Debug\net6.0\HackerRank_Day6_Strings.pdb
+C:\Users\jadhm\source\repos\HackerRank_Day6_Strings\HackerRank_Day6_Strings\obj\Debug\net6.0\HackerRank_Day6_Strings.genruntimeconfig.cache
+C:\Users\jadhm\source\repos\HackerRank_Day6_Strings\HackerRank_Day6_Strings\obj\Debug\net6.0\ref\HackerRank_Day6_Strings.dll
