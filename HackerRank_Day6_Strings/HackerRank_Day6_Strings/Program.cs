@@ -7,14 +7,14 @@ using System.Runtime.InteropServices;
 using System.Text;
 class Solution
 {
+    private static Dictionary<string, string> inputStringVariableNamePairs = new Dictionary<string, string>();
+
     static void Main(String[] args)
     {
-
         getValidInputs();
         rearrangeStringsByIndex();
-
     }
-    static void getValidInputs()
+    public static void getValidInputs()
         {
             int inputInteger;
             int lowerBound = 1;
@@ -22,7 +22,7 @@ class Solution
             int lowerLength = 2;
             int upperLength = 10000;
 
-            while (true)
+        while (true)
             {
                 Console.Write("Enter an integer value between 1 and 10: ");
                 string inputValue = Console.ReadLine();
@@ -49,10 +49,6 @@ class Solution
             //This code is executed once the break clause is reached. 
 
             Console.WriteLine("Now enter " + inputInteger + " strings. Minimum characters = " + lowerLength + ", maximum characters = " + upperLength + ": ");
-
-            //Declare a Dictionary to store the user-input Strings/dynamically generated variable name pairs.
-            //This will be so i can reference them later on to apply the string operations.
-            Dictionary<string, string> inputStringVariableNamePairs = new Dictionary<string, string>();
 
             //Create a 'for' loop to take in the required amount of strings from the user, validate their length, and add them to
             //the inputStringVariableNamePairs dictionary to loop over and perform the string mutations.
@@ -82,7 +78,7 @@ class Solution
             }
         }
 
-        static void rearrangeStringsByIndex() {
+        public static void rearrangeStringsByIndex() {
 
         StringBuilder evenString = new StringBuilder();
         StringBuilder oddString = new StringBuilder();
@@ -123,11 +119,28 @@ class Solution
         {
             return S.Length >= lowerInt && S.Length <= upperInt;
         }
+
+
     
 }
 
 
+//public class DictionaryHolder
+//{
 
+//    //Declare a Dictionary to store the user-input Strings/dynamically generated variable name pairs.
+//    //This will be so i can reference them later on to apply the string operations.
+//    private Dictionary<string, string> inputStringVariableNamePairs;
+
+//    public DictionaryHolder()
+//    {
+//        inputStringVariableNamePairs = new Dictionary<string, string>();
+//    }
+//    public Dictionary<string, string> GetDictionary()
+//    {
+//        return inputStringVariableNamePairs;
+//    }
+//}
 
 
 
